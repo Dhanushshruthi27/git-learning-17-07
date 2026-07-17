@@ -1,2 +1,1 @@
-This file is moiified by developer 1
-updated successfuly.
+Developer 2 adds some content in readme.
